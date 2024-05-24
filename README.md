@@ -9,7 +9,7 @@
 
 #### Как взаимодействовать с проектом:
 
-Файлы с заданием task_09 по очереди запускать, внизу примеры.
+Файлы с заданием task_09 по очереди запускать из консоли, внизу примеры.
 
 python task_09.py https://o-keramika.ru/wa-data/public/shop/products/11/16/1611/images/2756/2756.970.jpg
 python task_09_2.py http://o-keramika.ru/wa-data/public/shop/products/02/10/1002/images/1172/1172.750.jpg
